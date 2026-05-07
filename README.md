@@ -1,4 +1,4 @@
-# GMAC---Projects# Grace Agosto — Cybersecurity Portfolio
+# Grace Agosto — Cybersecurity Portfolio
 
 ## About me
 IT Analyst transitioning into cybersecurity with a focus on security operations and threat detection. Currently working with Microsoft 365, Intune, and Azure Active Directory. Holding CompTIA Security+ certification and actively building hands-on skills in SIEM, log analysis, and incident response.
