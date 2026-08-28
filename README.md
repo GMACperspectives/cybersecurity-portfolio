@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2A8&height=180&section=header&text=Grace%20Agosto&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=IT%20%26%20Cybersecurity%20Project%20Portfolio%20%F0%9F%94%90&descAlignY=62&descSize=18" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2A8&height=180&section=header&text=Grace%20Agosto&fontSize=48&fontColor=FFD23F&animation=fadeIn&fontAlignY=65" alt="header banner" />
 </p>
 
 <h1 align="center">
-  <a href="https://www.linkedin.com/in/grace-agosto-556b8093/">Grace Agosto</a>'s IT and Cybersecurity Project Portfolio 🔐
+  <a href="https://www.linkedin.com/in/grace-agosto-556b8093/"> </a> IT and Cybersecurity Project Portfolio 🔐
 </h1>
 
 <p align="center">
