@@ -1,0 +1,18 @@
+
+C:\Windows\System32>cmd /C xcopy /F /Y /Q "%systemroot%\system32\LogFiles\Firewall\pfirewall.log" "C:\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\Temp\CollectedData\ee2ebdf7-3de9-4873-8fb3-e4c413f979a8\..\"   & cmd /C move "C:\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\Temp\CollectedData\ee2ebdf7-3de9-4873-8fb3-e4c413f979a8\..\*.log" "C:\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\Temp\CollectedData\ee2ebdf7-3de9-4873-8fb3-e4c413f979a8\Network Connections\" 
+File not found - pfirewall.log
+0 File(s) copied
+A duplicate file name exists, or the file
+cannot be found.
+
+C:\Windows\System32>cmd /C xcopy /F /Y /Q "%systemroot%\system32\LogFiles\Firewall\pfirewall.log" "C:\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\Temp\CollectedData\ee2ebdf7-3de9-4873-8fb3-e4c413f979a8\..\"   & cmd /C move "C:\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\Temp\CollectedData\ee2ebdf7-3de9-4873-8fb3-e4c413f979a8\..\*.log" "C:\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\Temp\CollectedData\ee2ebdf7-3de9-4873-8fb3-e4c413f979a8\Network Connections\" 
+File not found - pfirewall.log
+0 File(s) copied
+A duplicate file name exists, or the file
+cannot be found.
+
+C:\Windows\System32>cmd /C xcopy /F /Y /Q "%systemroot%\system32\LogFiles\Firewall\pfirewall.log" "C:\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\Temp\CollectedData\ee2ebdf7-3de9-4873-8fb3-e4c413f979a8\..\"   & cmd /C move "C:\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\Temp\CollectedData\ee2ebdf7-3de9-4873-8fb3-e4c413f979a8\..\*.log" "C:\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\Temp\CollectedData\ee2ebdf7-3de9-4873-8fb3-e4c413f979a8\Network Connections\" 
+File not found - pfirewall.log
+0 File(s) copied
+A duplicate file name exists, or the file
+cannot be found.

@@ -1,0 +1,7 @@
+﻿TimeGenerated,RemoteIP,AccountName,DeviceName,ActionType,LogonType
+"Sep 2, 2026 8:31:37 AM",223.83.21.51,administrator,datafiles-corp-,LogonSuccess,Network
+"Sep 2, 2026 8:31:37 AM",,administrator,datafiles-corp-,LogonSuccess,Network
+"Sep 2, 2026 7:07:52 AM",,umfd-1,datafiles-corp-,LogonSuccess,Interactive
+"Sep 2, 2026 7:07:52 AM",,umfd-0,datafiles-corp-,LogonSuccess,Interactive
+"Sep 2, 2026 7:07:53 AM",,dwm-1,datafiles-corp-,LogonSuccess,Interactive
+"Sep 2, 2026 7:07:53 AM",,dwm-1,datafiles-corp-,LogonSuccess,Interactive

@@ -1,0 +1,140 @@
+﻿TimeGenerated,DeviceName,Username,IpAddress,ActionType,RawData
+"Sep 2, 2026 6:06:55 PM",datafiles-corp-s01,,,LogonSuccess,2026-09-02T22:06:55.311669Z    82 Connect 
+"Sep 2, 2026 6:06:52 PM",datafiles-corp-s01,,,LogonSuccess,2026-09-02T22:06:52.135286Z    81 Connect 
+"Sep 2, 2026 5:22:40 PM",datafiles-corp-s01,root,77.90.185.30,LogonSuccess,2026-09-02T21:22:40.536183Z    80 Connect root@77.90.185.30 on  using SSL/TLS
+"Sep 2, 2026 5:22:40 PM",datafiles-corp-s01,sa,77.90.185.30,LogonFailure,2026-09-02T21:22:39.972841Z    79 Connect Access denied for user 'sa'@'77.90.185.30' (using password: NO)
+"Sep 2, 2026 5:22:39 PM",datafiles-corp-s01,admin,77.90.185.30,LogonFailure,2026-09-02T21:22:39.407622Z    78 Connect Access denied for user 'admin'@'77.90.185.30' (using password: NO)
+"Sep 2, 2026 5:22:38 PM",datafiles-corp-s01,root,77.90.185.30,LogonFailure,2026-09-02T21:22:38.722337Z    77 Connect Access denied for user 'root'@'77.90.185.30' (using password: NO)
+"Sep 2, 2026 4:04:25 PM",datafiles-corp-s01,root,77.90.185.30,LogonSuccess,2026-09-02T20:04:24.991215Z    75 Connect root@77.90.185.30 on  using SSL/TLS
+"Sep 2, 2026 4:04:24 PM",datafiles-corp-s01,sa,77.90.185.30,LogonFailure,2026-09-02T20:04:24.427863Z    74 Connect Access denied for user 'sa'@'77.90.185.30' (using password: NO)
+"Sep 2, 2026 4:04:24 PM",datafiles-corp-s01,admin,77.90.185.30,LogonFailure,2026-09-02T20:04:23.863244Z    73 Connect Access denied for user 'admin'@'77.90.185.30' (using password: NO)
+"Sep 2, 2026 4:04:23 PM",datafiles-corp-s01,root,77.90.185.30,LogonFailure,2026-09-02T20:04:23.181173Z    72 Connect Access denied for user 'root'@'77.90.185.30' (using password: NO)
+"Sep 2, 2026 4:04:18 PM",datafiles-corp-s01,root,77.90.185.21,LogonSuccess,2026-09-02T20:04:17.946704Z    70 Connect root@77.90.185.21 on  using SSL/TLS
+"Sep 2, 2026 4:04:17 PM",datafiles-corp-s01,admin,77.90.185.21,LogonFailure,2026-09-02T20:04:16.822718Z    68 Connect Access denied for user 'admin'@'77.90.185.21' (using password: NO)
+"Sep 2, 2026 4:04:17 PM",datafiles-corp-s01,sa,77.90.185.21,LogonFailure,2026-09-02T20:04:17.377205Z    69 Connect Access denied for user 'sa'@'77.90.185.21' (using password: NO)
+"Sep 2, 2026 4:04:16 PM",datafiles-corp-s01,root,77.90.185.21,LogonFailure,2026-09-02T20:04:16.165733Z    67 Connect Access denied for user 'root'@'77.90.185.21' (using password: NO)
+"Sep 2, 2026 2:46:14 PM",datafiles-corp-s01,root,77.90.185.30,LogonSuccess,2026-09-02T18:46:13.962556Z    65 Connect root@77.90.185.30 on  using SSL/TLS
+"Sep 2, 2026 2:46:13 PM",datafiles-corp-s01,admin,77.90.185.30,LogonFailure,2026-09-02T18:46:12.843117Z    63 Connect Access denied for user 'admin'@'77.90.185.30' (using password: NO)
+"Sep 2, 2026 2:46:13 PM",datafiles-corp-s01,sa,77.90.185.30,LogonFailure,2026-09-02T18:46:13.398497Z    64 Connect Access denied for user 'sa'@'77.90.185.30' (using password: NO)
+"Sep 2, 2026 2:46:12 PM",datafiles-corp-s01,root,77.90.185.30,LogonFailure,2026-09-02T18:46:12.174993Z    62 Connect Access denied for user 'root'@'77.90.185.30' (using password: NO)
+"Sep 2, 2026 1:21:14 PM",datafiles-corp-s01,root,77.90.185.30,LogonSuccess,2026-09-02T17:21:14.450435Z    58 Connect root@77.90.185.30 on  using SSL/TLS
+"Sep 2, 2026 1:21:13 PM",datafiles-corp-s01,sa,77.90.185.30,LogonFailure,2026-09-02T17:21:13.884411Z    57 Connect Access denied for user 'sa'@'77.90.185.30' (using password: NO)
+"Sep 2, 2026 1:21:13 PM",datafiles-corp-s01,admin,77.90.185.30,LogonFailure,2026-09-02T17:21:13.318719Z    56 Connect Access denied for user 'admin'@'77.90.185.30' (using password: NO)
+"Sep 2, 2026 1:21:12 PM",datafiles-corp-s01,root,77.90.185.30,LogonFailure,2026-09-02T17:21:12.647314Z    55 Connect Access denied for user 'root'@'77.90.185.30' (using password: NO)
+"Sep 2, 2026 12:43:26 PM",datafiles-corp-s01,root,64.89.163.141,LogonSuccess,2026-09-02T16:43:26.345125Z    53 Connect root@64.89.163.141 on  using TCP/IP
+"Sep 2, 2026 12:43:25 PM",datafiles-corp-s01,root,64.89.163.141,LogonSuccess,2026-09-02T16:43:25.469145Z    51 Connect root@64.89.163.141 on  using TCP/IP
+"Sep 2, 2026 12:43:25 PM",datafiles-corp-s01,root,64.89.163.141,LogonFailure,2026-09-02T16:43:25.181404Z    50 Connect Access denied for user 'root'@'64.89.163.141' (using password: NO)
+"Sep 2, 2026 12:43:25 PM",datafiles-corp-s01,root,64.89.163.141,LogonSuccess,2026-09-02T16:43:25.847991Z    52 Connect root@64.89.163.141 on  using TCP/IP
+"Sep 2, 2026 12:43:18 PM",datafiles-corp-s01,root,64.89.163.141,LogonFailure,2026-09-02T16:43:18.234791Z    48 Connect Access denied for user 'root'@'64.89.163.141' (using password: NO)
+"Sep 2, 2026 12:43:18 PM",datafiles-corp-s01,root,64.89.163.141,LogonSuccess,2026-09-02T16:43:18.531360Z    49 Connect root@64.89.163.141 on  using TCP/IP
+"Sep 2, 2026 12:40:09 PM",datafiles-corp-s01,sa,213.209.159.115,LogonFailure,2026-09-02T16:40:09.333333Z    45 Connect Access denied for user 'sa'@'213.209.159.115' (using password: NO)
+"Sep 2, 2026 12:40:09 PM",datafiles-corp-s01,root,213.209.159.115,LogonSuccess,2026-09-02T16:40:09.798664Z    46 Connect root@213.209.159.115 on  using SSL/TLS
+"Sep 2, 2026 12:40:08 PM",datafiles-corp-s01,admin,213.209.159.115,LogonFailure,2026-09-02T16:40:08.869450Z    44 Connect Access denied for user 'admin'@'213.209.159.115' (using password: NO)
+"Sep 2, 2026 12:40:08 PM",datafiles-corp-s01,root,213.209.159.115,LogonFailure,2026-09-02T16:40:08.327746Z    43 Connect Access denied for user 'root'@'213.209.159.115' (using password: NO)
+"Sep 2, 2026 11:58:00 AM",datafiles-corp-s01,root,34.156.149.204,LogonFailure,2026-09-02T15:58:00.624639Z    41 Connect Access denied for user 'root'@'34.156.149.204' (using password: NO)
+"Sep 2, 2026 11:56:13 AM",datafiles-corp-s01,root,77.90.185.30,LogonSuccess,2026-09-02T15:56:13.141284Z    39 Connect root@77.90.185.30 on  using SSL/TLS
+"Sep 2, 2026 11:56:12 AM",datafiles-corp-s01,admin,77.90.185.30,LogonFailure,2026-09-02T15:56:12.039425Z    37 Connect Access denied for user 'admin'@'77.90.185.30' (using password: NO)
+"Sep 2, 2026 11:56:12 AM",datafiles-corp-s01,sa,77.90.185.30,LogonFailure,2026-09-02T15:56:12.587797Z    38 Connect Access denied for user 'sa'@'77.90.185.30' (using password: NO)
+"Sep 2, 2026 11:56:11 AM",datafiles-corp-s01,root,77.90.185.30,LogonFailure,2026-09-02T15:56:11.360873Z    36 Connect Access denied for user 'root'@'77.90.185.30' (using password: NO)
+"Sep 2, 2026 10:31:14 AM",datafiles-corp-s01,root,77.90.185.30,LogonSuccess,2026-09-02T14:31:14.022221Z    34 Connect root@77.90.185.30 on  using SSL/TLS
+"Sep 2, 2026 10:31:13 AM",datafiles-corp-s01,sa,77.90.185.30,LogonFailure,2026-09-02T14:31:13.468454Z    33 Connect Access denied for user 'sa'@'77.90.185.30' (using password: NO)
+"Sep 2, 2026 10:31:13 AM",datafiles-corp-s01,admin,77.90.185.30,LogonFailure,2026-09-02T14:31:12.904601Z    32 Connect Access denied for user 'admin'@'77.90.185.30' (using password: NO)
+"Sep 2, 2026 10:31:12 AM",datafiles-corp-s01,root,77.90.185.30,LogonFailure,2026-09-02T14:31:12.216267Z    31 Connect Access denied for user 'root'@'77.90.185.30' (using password: NO)
+"Sep 2, 2026 9:13:03 AM",datafiles-corp-s01,sa,77.90.185.30,LogonFailure,2026-09-02T13:13:02.865180Z    28 Connect Access denied for user 'sa'@'77.90.185.30' (using password: NO)
+"Sep 2, 2026 9:13:02 AM",datafiles-corp-s01,admin,77.90.185.30,LogonFailure,2026-09-02T13:13:02.294743Z    27 Connect Access denied for user 'admin'@'77.90.185.30' (using password: NO)
+"Sep 2, 2026 9:13:01 AM",datafiles-corp-s01,root,77.90.185.30,LogonFailure,2026-09-02T13:13:01.609538Z    26 Connect Access denied for user 'root'@'77.90.185.30' (using password: NO)
+"Sep 2, 2026 8:33:22 AM",datafiles-corp-s01,root,77.90.185.21,LogonSuccess,2026-09-02T12:33:22.129604Z    24 Connect root@77.90.185.21 on  using SSL/TLS
+"Sep 2, 2026 8:33:21 AM",datafiles-corp-s01,admin,77.90.185.21,LogonFailure,2026-09-02T12:33:20.987679Z    22 Connect Access denied for user 'admin'@'77.90.185.21' (using password: NO)
+"Sep 2, 2026 8:33:21 AM",datafiles-corp-s01,sa,77.90.185.21,LogonFailure,2026-09-02T12:33:21.559357Z    23 Connect Access denied for user 'sa'@'77.90.185.21' (using password: NO)
+"Sep 2, 2026 8:33:20 AM",datafiles-corp-s01,root,77.90.185.21,LogonFailure,2026-09-02T12:33:20.302398Z    21 Connect Access denied for user 'root'@'77.90.185.21' (using password: NO)
+"Sep 2, 2026 7:55:05 AM",datafiles-corp-s01,root,77.90.185.30,LogonSuccess,2026-09-02T11:55:05.683647Z    19 Connect root@77.90.185.30 on  using SSL/TLS
+"Sep 2, 2026 7:55:05 AM",datafiles-corp-s01,sa,77.90.185.30,LogonFailure,2026-09-02T11:55:05.006722Z    18 Connect Access denied for user 'sa'@'77.90.185.30' (using password: NO)
+"Sep 2, 2026 7:55:04 AM",datafiles-corp-s01,admin,77.90.185.30,LogonFailure,2026-09-02T11:55:04.435774Z    17 Connect Access denied for user 'admin'@'77.90.185.30' (using password: NO)
+"Sep 2, 2026 7:55:03 AM",datafiles-corp-s01,root,77.90.185.30,LogonFailure,2026-09-02T11:55:03.750242Z    16 Connect Access denied for user 'root'@'77.90.185.30' (using password: NO)
+"Sep 2, 2026 7:21:16 AM",datafiles-corp-s01,,35.205.193.184,LogonFailure,2026-09-02T11:21:15.889628Z    10 Connect Access denied for user ''@'35.205.193.184' (using password: NO)
+"Sep 2, 2026 7:21:16 AM",datafiles-corp-s01,root,35.205.193.184,LogonSuccess,2026-09-02T11:21:16.193448Z    11 Connect root@35.205.193.184 on  using TCP/IP
+"Sep 2, 2026 7:21:16 AM",datafiles-corp-s01,client,,LogonSuccess,2026-09-02T11:21:16.193404Z    11 Connect Client does not support authentication protocol requested by server; consider upgrading MySQL client
+"Sep 2, 2026 4:00:33 AM",datafiles-corp-s01,root,77.90.185.30,LogonSuccess,2026-09-02T08:00:33.050407Z   156 Connect root@77.90.185.30 on  using SSL/TLS
+"Sep 2, 2026 4:00:32 AM",datafiles-corp-s01,sa,77.90.185.30,LogonFailure,2026-09-02T08:00:32.473011Z   155 Connect Access denied for user 'sa'@'77.90.185.30' (using password: NO)
+"Sep 2, 2026 4:00:31 AM",datafiles-corp-s01,admin,77.90.185.30,LogonFailure,2026-09-02T08:00:31.807395Z   154 Connect Access denied for user 'admin'@'77.90.185.30' (using password: NO)
+"Sep 2, 2026 4:00:31 AM",datafiles-corp-s01,root,77.90.185.30,LogonFailure,2026-09-02T08:00:31.229497Z   153 Connect Access denied for user 'root'@'77.90.185.30' (using password: NO)
+"Sep 2, 2026 3:43:17 AM",datafiles-corp-s01,,,LogonSuccess,2026-09-02T07:43:17.480606Z   151 Connect 
+"Sep 2, 2026 3:42:54 AM",datafiles-corp-s01,,,LogonSuccess,2026-09-02T07:42:54.546953Z   150 Connect 
+"Sep 2, 2026 2:42:35 AM",datafiles-corp-s01,root,77.90.185.30,LogonSuccess,2026-09-02T06:42:35.006044Z   149 Connect root@77.90.185.30 on  using SSL/TLS
+"Sep 2, 2026 2:42:34 AM",datafiles-corp-s01,sa,77.90.185.30,LogonFailure,2026-09-02T06:42:34.440286Z   148 Connect Access denied for user 'sa'@'77.90.185.30' (using password: NO)
+"Sep 2, 2026 2:42:33 AM",datafiles-corp-s01,root,77.90.185.30,LogonFailure,2026-09-02T06:42:33.203489Z   146 Connect Access denied for user 'root'@'77.90.185.30' (using password: NO)
+"Sep 2, 2026 2:42:33 AM",datafiles-corp-s01,admin,77.90.185.30,LogonFailure,2026-09-02T06:42:33.754321Z   147 Connect Access denied for user 'admin'@'77.90.185.30' (using password: NO)
+"Sep 2, 2026 1:24:14 AM",datafiles-corp-s01,root,77.90.185.30,LogonSuccess,2026-09-02T05:24:14.064603Z   142 Connect root@77.90.185.30 on  using SSL/TLS
+"Sep 2, 2026 1:24:13 AM",datafiles-corp-s01,sa,77.90.185.30,LogonFailure,2026-09-02T05:24:13.496746Z   141 Connect Access denied for user 'sa'@'77.90.185.30' (using password: NO)
+"Sep 2, 2026 1:24:12 AM",datafiles-corp-s01,admin,77.90.185.30,LogonFailure,2026-09-02T05:24:12.837905Z   140 Connect Access denied for user 'admin'@'77.90.185.30' (using password: NO)
+"Sep 2, 2026 1:24:12 AM",datafiles-corp-s01,root,77.90.185.30,LogonFailure,2026-09-02T05:24:12.282720Z   139 Connect Access denied for user 'root'@'77.90.185.30' (using password: NO)
+"Sep 2, 2026 1:03:14 AM",datafiles-corp-s01,root,77.90.185.21,LogonSuccess,2026-09-02T05:03:14.739849Z   137 Connect root@77.90.185.21 on  using SSL/TLS
+"Sep 2, 2026 1:03:14 AM",datafiles-corp-s01,sa,77.90.185.21,LogonFailure,2026-09-02T05:03:14.181824Z   136 Connect Access denied for user 'sa'@'77.90.185.21' (using password: NO)
+"Sep 2, 2026 1:03:13 AM",datafiles-corp-s01,root,77.90.185.21,LogonFailure,2026-09-02T05:03:12.951619Z   134 Connect Access denied for user 'root'@'77.90.185.21' (using password: NO)
+"Sep 2, 2026 1:03:13 AM",datafiles-corp-s01,admin,77.90.185.21,LogonFailure,2026-09-02T05:03:13.505038Z   135 Connect Access denied for user 'admin'@'77.90.185.21' (using password: NO)
+"Sep 2, 2026 12:11:34 AM",datafiles-corp-s01,root,64.89.163.139,LogonSuccess,2026-09-02T04:11:34.181127Z   129 Connect root@64.89.163.139 on  using TCP/IP
+"Sep 2, 2026 12:11:34 AM",datafiles-corp-s01,root,64.89.163.139,LogonSuccess,2026-09-02T04:11:34.646062Z   130 Connect root@64.89.163.139 on  using TCP/IP
+"Sep 2, 2026 12:11:33 AM",datafiles-corp-s01,root,64.89.163.139,LogonSuccess,2026-09-02T04:11:33.717538Z   128 Connect root@64.89.163.139 on  using TCP/IP
+"Sep 2, 2026 12:11:33 AM",datafiles-corp-s01,root,64.89.163.139,LogonFailure,2026-09-02T04:11:33.348406Z   127 Connect Access denied for user 'root'@'64.89.163.139' (using password: NO)
+"Sep 2, 2026 12:11:28 AM",datafiles-corp-s01,root,64.89.163.139,LogonSuccess,2026-09-02T04:11:27.899058Z   126 Connect root@64.89.163.139 on  using TCP/IP
+"Sep 2, 2026 12:11:27 AM",datafiles-corp-s01,root,64.89.163.139,LogonFailure,2026-09-02T04:11:27.620762Z   125 Connect Access denied for user 'root'@'64.89.163.139' (using password: NO)
+"Sep 2, 2026 12:06:14 AM",datafiles-corp-s01,root,77.90.185.30,LogonSuccess,2026-09-02T04:06:14.397832Z   123 Connect root@77.90.185.30 on  using SSL/TLS
+"Sep 2, 2026 12:06:14 AM",datafiles-corp-s01,sa,77.90.185.30,LogonFailure,2026-09-02T04:06:13.843685Z   122 Connect Access denied for user 'sa'@'77.90.185.30' (using password: NO)
+"Sep 2, 2026 12:06:13 AM",datafiles-corp-s01,admin,77.90.185.30,LogonFailure,2026-09-02T04:06:13.184806Z   121 Connect Access denied for user 'admin'@'77.90.185.30' (using password: NO)
+"Sep 2, 2026 12:06:12 AM",datafiles-corp-s01,root,77.90.185.30,LogonFailure,2026-09-02T04:06:12.630508Z   120 Connect Access denied for user 'root'@'77.90.185.30' (using password: NO)
+"Sep 1, 2026 11:52:51 PM",datafiles-corp-s01,root,64.89.163.154,LogonSuccess,2026-09-02T03:52:51.207583Z   118 Connect root@64.89.163.154 on  using TCP/IP
+"Sep 1, 2026 11:52:51 PM",datafiles-corp-s01,root,64.89.163.154,LogonSuccess,2026-09-02T03:52:50.842161Z   117 Connect root@64.89.163.154 on  using TCP/IP
+"Sep 1, 2026 11:52:50 PM",datafiles-corp-s01,root,64.89.163.154,LogonSuccess,2026-09-02T03:52:50.020401Z   115 Connect root@64.89.163.154 on  using TCP/IP
+"Sep 1, 2026 11:52:50 PM",datafiles-corp-s01,root,64.89.163.154,LogonSuccess,2026-09-02T03:52:50.386832Z   116 Connect root@64.89.163.154 on  using TCP/IP
+"Sep 1, 2026 11:52:49 PM",datafiles-corp-s01,root,64.89.163.154,LogonSuccess,2026-09-02T03:52:49.531654Z   114 Connect root@64.89.163.154 on  using TCP/IP
+"Sep 1, 2026 10:48:14 PM",datafiles-corp-s01,root,77.90.185.30,LogonSuccess,2026-09-02T02:48:14.384654Z   113 Connect root@77.90.185.30 on  using SSL/TLS
+"Sep 1, 2026 10:48:13 PM",datafiles-corp-s01,admin,77.90.185.30,LogonFailure,2026-09-02T02:48:13.174097Z   111 Connect Access denied for user 'admin'@'77.90.185.30' (using password: NO)
+"Sep 1, 2026 10:48:13 PM",datafiles-corp-s01,sa,77.90.185.30,LogonFailure,2026-09-02T02:48:13.830889Z   112 Connect Access denied for user 'sa'@'77.90.185.30' (using password: NO)
+"Sep 1, 2026 10:48:12 PM",datafiles-corp-s01,root,77.90.185.30,LogonFailure,2026-09-02T02:48:12.627774Z   110 Connect Access denied for user 'root'@'77.90.185.30' (using password: NO)
+"Sep 1, 2026 9:34:29 PM",datafiles-corp-s01,root,213.209.159.115,LogonSuccess,2026-09-02T01:34:29.780400Z   106 Connect root@213.209.159.115 on  using SSL/TLS
+"Sep 1, 2026 9:34:29 PM",datafiles-corp-s01,sa,213.209.159.115,LogonFailure,2026-09-02T01:34:29.332701Z   105 Connect Access denied for user 'sa'@'213.209.159.115' (using password: NO)
+"Sep 1, 2026 9:34:28 PM",datafiles-corp-s01,root,213.209.159.115,LogonFailure,2026-09-02T01:34:28.313914Z   103 Connect Access denied for user 'root'@'213.209.159.115' (using password: NO)
+"Sep 1, 2026 9:34:28 PM",datafiles-corp-s01,admin,213.209.159.115,LogonFailure,2026-09-02T01:34:28.783345Z   104 Connect Access denied for user 'admin'@'213.209.159.115' (using password: NO)
+"Sep 1, 2026 9:28:21 PM",datafiles-corp-s01,root,77.90.185.30,LogonSuccess,2026-09-02T01:28:20.882515Z   101 Connect root@77.90.185.30 on  using SSL/TLS
+"Sep 1, 2026 9:28:20 PM",datafiles-corp-s01,sa,77.90.185.30,LogonFailure,2026-09-02T01:28:20.322265Z   100 Connect Access denied for user 'sa'@'77.90.185.30' (using password: NO)
+"Sep 1, 2026 9:28:19 PM",datafiles-corp-s01,admin,77.90.185.30,LogonFailure,2026-09-02T01:28:19.659533Z    99 Connect Access denied for user 'admin'@'77.90.185.30' (using password: NO)
+"Sep 1, 2026 9:28:19 PM",datafiles-corp-s01,root,77.90.185.30,LogonFailure,2026-09-02T01:28:19.110833Z    98 Connect Access denied for user 'root'@'77.90.185.30' (using password: NO)
+"Sep 1, 2026 8:17:53 PM",datafiles-corp-s01,root,136.144.19.189,LogonSuccess,2026-09-02T00:17:53.871089Z    94 Connect root@136.144.19.189 on  using SSL/TLS
+"Sep 1, 2026 8:09:18 PM",datafiles-corp-s01,root,77.90.185.30,LogonSuccess,2026-09-02T00:09:18.157623Z    93 Connect root@77.90.185.30 on  using SSL/TLS
+"Sep 1, 2026 8:09:17 PM",datafiles-corp-s01,sa,77.90.185.30,LogonFailure,2026-09-02T00:09:17.587375Z    92 Connect Access denied for user 'sa'@'77.90.185.30' (using password: NO)
+"Sep 1, 2026 8:09:16 PM",datafiles-corp-s01,admin,77.90.185.30,LogonFailure,2026-09-02T00:09:16.883689Z    91 Connect Access denied for user 'admin'@'77.90.185.30' (using password: NO)
+"Sep 1, 2026 8:09:16 PM",datafiles-corp-s01,root,77.90.185.30,LogonFailure,2026-09-02T00:09:16.319468Z    90 Connect Access denied for user 'root'@'77.90.185.30' (using password: NO)
+"Sep 1, 2026 5:36:31 PM",datafiles-corp-s01,,,LogonSuccess,2026-09-01T21:36:31.562125Z    86 Connect 
+"Sep 1, 2026 5:01:32 PM",datafiles-corp-s01,root,64.89.163.145,LogonFailure,2026-09-01T21:01:32.445254Z    85 Connect Access denied for user 'root'@'64.89.163.145' (using password: NO)
+"Sep 1, 2026 4:28:18 PM",datafiles-corp-s01,root,64.89.163.166,LogonSuccess,2026-09-01T20:28:18.686761Z    84 Connect root@64.89.163.166 on  using TCP/IP
+"Sep 1, 2026 4:28:18 PM",datafiles-corp-s01,root,64.89.163.166,LogonSuccess,2026-09-01T20:28:18.214875Z    83 Connect root@64.89.163.166 on  using TCP/IP
+"Sep 1, 2026 4:28:17 PM",datafiles-corp-s01,root,64.89.163.166,LogonSuccess,2026-09-01T20:28:17.752700Z    82 Connect root@64.89.163.166 on  using TCP/IP
+"Sep 1, 2026 4:28:17 PM",datafiles-corp-s01,root,64.89.163.166,LogonSuccess,2026-09-01T20:28:17.201715Z    81 Connect root@64.89.163.166 on  using TCP/IP
+"Sep 1, 2026 4:28:16 PM",datafiles-corp-s01,root,64.89.163.166,LogonSuccess,2026-09-01T20:28:16.729639Z    80 Connect root@64.89.163.166 on  using TCP/IP
+"Sep 1, 2026 4:28:12 PM",datafiles-corp-s01,root,64.89.163.166,LogonSuccess,2026-09-01T20:28:12.852530Z    76 Connect root@64.89.163.166 on  using TCP/IP
+"Sep 1, 2026 4:28:12 PM",datafiles-corp-s01,root,64.89.163.166,LogonSuccess,2026-09-01T20:28:12.162582Z    75 Connect root@64.89.163.166 on world using TCP/IP
+"Sep 1, 2026 4:28:09 PM",datafiles-corp-s01,root,64.89.163.166,LogonSuccess,2026-09-01T20:28:09.236855Z    71 Connect root@64.89.163.166 on  using TCP/IP
+"Sep 1, 2026 4:28:08 PM",datafiles-corp-s01,root,64.89.163.166,LogonSuccess,2026-09-01T20:28:08.649900Z    70 Connect root@64.89.163.166 on sakila using TCP/IP
+"Sep 1, 2026 4:28:05 PM",datafiles-corp-s01,root,64.89.163.166,LogonSuccess,2026-09-01T20:28:05.719437Z    66 Connect root@64.89.163.166 on sakila using TCP/IP
+"Sep 1, 2026 4:28:04 PM",datafiles-corp-s01,root,64.89.163.166,LogonSuccess,2026-09-01T20:28:04.339931Z    65 Connect root@64.89.163.166 on sakila using TCP/IP
+"Sep 1, 2026 4:28:00 PM",datafiles-corp-s01,root,64.89.163.166,LogonSuccess,2026-09-01T20:28:00.091418Z    61 Connect root@64.89.163.166 on sakila using TCP/IP
+"Sep 1, 2026 4:27:59 PM",datafiles-corp-s01,root,64.89.163.166,LogonSuccess,2026-09-01T20:27:59.130349Z    60 Connect root@64.89.163.166 on sakila using TCP/IP
+"Sep 1, 2026 4:27:58 PM",datafiles-corp-s01,root,64.89.163.166,LogonSuccess,2026-09-01T20:27:57.975744Z    59 Connect root@64.89.163.166 on sakila using TCP/IP
+"Sep 1, 2026 4:27:57 PM",datafiles-corp-s01,root,64.89.163.166,LogonSuccess,2026-09-01T20:27:57.211035Z    58 Connect root@64.89.163.166 on sakila using TCP/IP
+"Sep 1, 2026 4:27:53 PM",datafiles-corp-s01,root,64.89.163.166,LogonSuccess,2026-09-01T20:27:53.451233Z    54 Connect root@64.89.163.166 on sakila using TCP/IP
+"Sep 1, 2026 4:27:52 PM",datafiles-corp-s01,root,64.89.163.166,LogonSuccess,2026-09-01T20:27:51.956228Z    52 Connect root@64.89.163.166 on sakila using TCP/IP
+"Sep 1, 2026 4:27:52 PM",datafiles-corp-s01,root,64.89.163.166,LogonSuccess,2026-09-01T20:27:52.726550Z    53 Connect root@64.89.163.166 on sakila using TCP/IP
+"Sep 1, 2026 4:27:51 PM",datafiles-corp-s01,root,64.89.163.166,LogonSuccess,2026-09-01T20:27:51.265178Z    51 Connect root@64.89.163.166 on sakila using TCP/IP
+"Sep 1, 2026 4:27:49 PM",datafiles-corp-s01,root,64.89.163.166,LogonSuccess,2026-09-01T20:27:48.943244Z    49 Connect root@64.89.163.166 on sakila using TCP/IP
+"Sep 1, 2026 4:27:47 PM",datafiles-corp-s01,root,64.89.163.166,LogonSuccess,2026-09-01T20:27:46.933231Z    46 Connect root@64.89.163.166 on recover_your_data using TCP/IP
+"Sep 1, 2026 4:27:47 PM",datafiles-corp-s01,root,64.89.163.166,LogonSuccess,2026-09-01T20:27:47.514850Z    47 Connect root@64.89.163.166 on  using TCP/IP
+"Sep 1, 2026 4:27:45 PM",datafiles-corp-s01,root,64.89.163.166,LogonSuccess,2026-09-01T20:27:45.049828Z    42 Connect root@64.89.163.166 on  using TCP/IP
+"Sep 1, 2026 4:27:43 PM",datafiles-corp-s01,root,64.89.163.166,LogonSuccess,2026-09-01T20:27:43.319877Z    40 Connect root@64.89.163.166 on cr_corp_01 using TCP/IP
+"Sep 1, 2026 4:27:42 PM",datafiles-corp-s01,root,64.89.163.166,LogonSuccess,2026-09-01T20:27:42.357293Z    39 Connect root@64.89.163.166 on cr_corp_01 using TCP/IP
+"Sep 1, 2026 4:27:39 PM",datafiles-corp-s01,root,64.89.163.166,LogonSuccess,2026-09-01T20:27:39.828173Z    35 Connect root@64.89.163.166 on  using TCP/IP
+"Sep 1, 2026 4:27:38 PM",datafiles-corp-s01,root,64.89.163.166,LogonSuccess,2026-09-01T20:27:38.576768Z    34 Connect root@64.89.163.166 on  using TCP/IP
+"Sep 1, 2026 4:27:37 PM",datafiles-corp-s01,root,64.89.163.166,LogonFailure,2026-09-01T20:27:37.449734Z    31 Connect Access denied for user 'root'@'64.89.163.166' (using password: NO)
+"Sep 1, 2026 4:27:32 PM",datafiles-corp-s01,root,64.89.163.166,LogonSuccess,2026-09-01T20:27:32.085069Z    30 Connect root@64.89.163.166 on  using TCP/IP
+"Sep 1, 2026 4:27:31 PM",datafiles-corp-s01,root,64.89.163.166,LogonFailure,2026-09-01T20:27:31.608739Z    29 Connect Access denied for user 'root'@'64.89.163.166' (using password: NO)
+"Sep 1, 2026 1:00:44 PM",datafiles-corp-s01,root,34.76.237.68,LogonFailure,2026-09-01T17:00:44.199003Z    25 Connect Access denied for user 'root'@'34.76.237.68' (using password: NO)
+"Sep 1, 2026 11:53:53 AM",datafiles-corp-s01,root,localhost,LogonSuccess,2026-09-01T15:53:53.834337Z    20 Connect root@localhost on  using SSL/TLS

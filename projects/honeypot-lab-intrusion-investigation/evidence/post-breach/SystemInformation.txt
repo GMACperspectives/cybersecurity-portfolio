@@ -1,0 +1,54 @@
+
+Host Name:                     DataFiles-Corp-
+OS Name:                       Microsoft Windows 11 Pro
+OS Version:                    10.0.26200 N/A Build 26200
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              N/A
+Registered Organization:       N/A
+Product ID:                    00331-10000-00001-AA853
+Original Install Date:         8/31/2026, 1:32:48 PM
+System Boot Time:              9/2/2026, 11:07:47 AM
+System Manufacturer:           Microsoft Corporation
+System Model:                  Virtual Machine
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: AMD64 Family 25 Model 17 Stepping 1 AuthenticAMD ~2596 Mhz
+BIOS Version:                  Microsoft Corporation Hyper-V UEFI Release v4.1, 4/22/2026
+Windows Directory:             C:\Windows
+System Directory:              C:\Windows\system32
+Boot Device:                   \Device\HarddiskVolume3
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC) Coordinated Universal Time
+Total Physical Memory:         4,091 MB
+Available Physical Memory:     1,568 MB
+Virtual Memory: Max Size:      5,499 MB
+Virtual Memory: Available:     2,710 MB
+Virtual Memory: In Use:        2,789 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  N/A
+Hotfix(s):                     4 Hotfix(s) Installed.
+                               [01]: KB5120708
+                               [02]: KB5054156
+                               [03]: KB5121003
+                               [04]: KB5123304
+Network Card(s):               2 NIC(s) Installed.
+                               [01]: Microsoft Hyper-V Network Adapter
+                                     Connection Name: Ethernet
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     168.63.129.16
+                                     IP address(es)
+                                     [01]: 10.2.0.23
+                                     [02]: fe80::a657:4f5b:70e2:2368
+                               [02]: Mellanox ConnectX-5 Ex Virtual Adapter
+                                     Connection Name: Ethernet 4
+                                     DHCP Enabled:    No
+                                     IP address(es)
+Virtualization-based security: Status: Not enabled
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.

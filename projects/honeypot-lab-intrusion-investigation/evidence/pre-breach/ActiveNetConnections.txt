@@ -1,0 +1,407 @@
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State           PID
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING       948
+  RpcSs
+ [svchost.exe]
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING       4
+ Can not obtain ownership information
+  TCP    0.0.0.0:3306           0.0.0.0:0              LISTENING       3680
+ [mysqld.exe]
+  TCP    0.0.0.0:3389           0.0.0.0:0              LISTENING       4940
+  TermService
+ [svchost.exe]
+  TCP    0.0.0.0:5040           0.0.0.0:0              LISTENING       6044
+  CDPSvc
+ [svchost.exe]
+  TCP    0.0.0.0:7680           0.0.0.0:0              LISTENING       744
+ Can not obtain ownership information
+  TCP    0.0.0.0:33060          0.0.0.0:0              LISTENING       3680
+ [mysqld.exe]
+  TCP    0.0.0.0:49664          0.0.0.0:0              LISTENING       880
+ Can not obtain ownership information
+  TCP    0.0.0.0:49665          0.0.0.0:0              LISTENING       716
+ Can not obtain ownership information
+  TCP    0.0.0.0:49666          0.0.0.0:0              LISTENING       2172
+  Schedule
+ [svchost.exe]
+  TCP    0.0.0.0:49667          0.0.0.0:0              LISTENING       2944
+ [spoolsv.exe]
+  TCP    0.0.0.0:49668          0.0.0.0:0              LISTENING       1912
+  EventLog
+ [svchost.exe]
+  TCP    0.0.0.0:49675          0.0.0.0:0              LISTENING       860
+ Can not obtain ownership information
+  TCP    0.0.0.0:49676          0.0.0.0:0              LISTENING       4576
+  SessionEnv
+ [svchost.exe]
+  TCP    0.0.0.0:58103          0.0.0.0:0              LISTENING       5012
+  PolicyAgent
+ [svchost.exe]
+  TCP    10.2.0.23:139          0.0.0.0:0              LISTENING       4
+ Can not obtain ownership information
+  TCP    10.2.0.23:3389         10.0.8.4:36136         ESTABLISHED     4940
+  TermService
+ [svchost.exe]
+  TCP    10.2.0.23:49683        168.63.129.16:32526    ESTABLISHED     3536
+ [WindowsAzureGuestAgent.exe]
+  TCP    10.2.0.23:49689        168.63.129.16:80       ESTABLISHED     3536
+ [WindowsAzureGuestAgent.exe]
+  TCP    10.2.0.23:49700        104.208.203.89:443     ESTABLISHED     3480
+  WpnService
+ [svchost.exe]
+  TCP    10.2.0.23:49709        168.63.129.16:32526    ESTABLISHED     3756
+ [WaAppAgent.exe]
+  TCP    10.2.0.23:51194        52.110.1.30:443        ESTABLISHED     2800
+ [StartMenuExperienceHost.exe]
+  TCP    10.2.0.23:51196        52.110.1.40:443        ESTABLISHED     2800
+ [StartMenuExperienceHost.exe]
+  TCP    10.2.0.23:58128        168.63.129.16:80       TIME_WAIT       0
+  TCP    10.2.0.23:58179        20.184.175.22:443      TIME_WAIT       0
+  TCP    10.2.0.23:58200        20.242.181.1:443       ESTABLISHED     3664
+ Can not obtain ownership information
+  TCP    10.2.0.23:58627        20.10.127.193:443      ESTABLISHED     3808
+ Can not obtain ownership information
+  TCP    10.2.0.23:61651        52.110.1.49:443        ESTABLISHED     5572
+ [Explorer.EXE]
+  TCP    127.0.0.1:3306         127.0.0.1:54595        ESTABLISHED     3680
+ [mysqld.exe]
+  TCP    127.0.0.1:3306         127.0.0.1:54596        ESTABLISHED     3680
+ [mysqld.exe]
+  TCP    127.0.0.1:28230        0.0.0.0:0              LISTENING       3976
+ [MonAgentCore.exe]
+  TCP    127.0.0.1:54595        127.0.0.1:3306         ESTABLISHED     7676
+ [MySQLWorkbench.exe]
+  TCP    127.0.0.1:54596        127.0.0.1:3306         ESTABLISHED     7676
+ [MySQLWorkbench.exe]
+  TCP    127.0.0.1:62025        127.0.0.1:62026        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62026        127.0.0.1:62025        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62027        127.0.0.1:62028        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62028        127.0.0.1:62027        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62029        127.0.0.1:62030        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62030        127.0.0.1:62029        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62031        127.0.0.1:62032        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62032        127.0.0.1:62031        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62033        127.0.0.1:62034        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62034        127.0.0.1:62033        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62035        127.0.0.1:62036        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62036        127.0.0.1:62035        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62037        127.0.0.1:62038        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62038        127.0.0.1:62037        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62039        127.0.0.1:62040        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62040        127.0.0.1:62039        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62041        127.0.0.1:62042        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62042        127.0.0.1:62041        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62043        127.0.0.1:62044        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62044        127.0.0.1:62043        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62045        127.0.0.1:62046        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62046        127.0.0.1:62045        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62047        127.0.0.1:62048        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62048        127.0.0.1:62047        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62049        127.0.0.1:62050        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62050        127.0.0.1:62049        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62051        127.0.0.1:62052        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62052        127.0.0.1:62051        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62053        127.0.0.1:62054        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62054        127.0.0.1:62053        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62055        127.0.0.1:62056        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62056        127.0.0.1:62055        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62057        127.0.0.1:62058        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62058        127.0.0.1:62057        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62059        127.0.0.1:62060        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62060        127.0.0.1:62059        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62061        127.0.0.1:62062        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62062        127.0.0.1:62061        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62063        127.0.0.1:62064        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62064        127.0.0.1:62063        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62065        127.0.0.1:62066        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62066        127.0.0.1:62065        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62067        127.0.0.1:62068        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62068        127.0.0.1:62067        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62069        127.0.0.1:62070        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62070        127.0.0.1:62069        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62071        127.0.0.1:62072        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62072        127.0.0.1:62071        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62073        127.0.0.1:62074        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62074        127.0.0.1:62073        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62075        127.0.0.1:62076        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62076        127.0.0.1:62075        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62077        127.0.0.1:62078        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62078        127.0.0.1:62077        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62079        127.0.0.1:62080        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62080        127.0.0.1:62079        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62081        127.0.0.1:62082        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62082        127.0.0.1:62081        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62083        127.0.0.1:62084        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62084        127.0.0.1:62083        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62085        127.0.0.1:62086        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62086        127.0.0.1:62085        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62087        127.0.0.1:62088        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62088        127.0.0.1:62087        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62089        127.0.0.1:62090        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62090        127.0.0.1:62089        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62091        127.0.0.1:62092        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62092        127.0.0.1:62091        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62093        127.0.0.1:62094        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62094        127.0.0.1:62093        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62095        127.0.0.1:62096        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62096        127.0.0.1:62095        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62097        127.0.0.1:62098        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62098        127.0.0.1:62097        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62099        127.0.0.1:62100        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62100        127.0.0.1:62099        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62101        127.0.0.1:62102        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62102        127.0.0.1:62101        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62103        127.0.0.1:62104        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62104        127.0.0.1:62103        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62105        127.0.0.1:62106        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62106        127.0.0.1:62105        ESTABLISHED     7548
+ [fluent-bit.exe]
+  TCP    127.0.0.1:62546        127.0.0.1:62547        ESTABLISHED     3680
+ [mysqld.exe]
+  TCP    127.0.0.1:62547        127.0.0.1:62546        ESTABLISHED     3680
+ [mysqld.exe]
+  TCP    127.0.0.1:62548        127.0.0.1:62549        ESTABLISHED     3680
+ [mysqld.exe]
+  TCP    127.0.0.1:62549        127.0.0.1:62548        ESTABLISHED     3680
+ [mysqld.exe]
+  TCP    [::]:135               [::]:0                 LISTENING       948
+  RpcSs
+ [svchost.exe]
+  TCP    [::]:445               [::]:0                 LISTENING       4
+ Can not obtain ownership information
+  TCP    [::]:3389              [::]:0                 LISTENING       4940
+  TermService
+ [svchost.exe]
+  TCP    [::]:7680              [::]:0                 LISTENING       744
+ Can not obtain ownership information
+  TCP    [::]:33060             [::]:0                 LISTENING       3680
+ [mysqld.exe]
+  TCP    [::]:49664             [::]:0                 LISTENING       880
+ Can not obtain ownership information
+  TCP    [::]:49665             [::]:0                 LISTENING       716
+ Can not obtain ownership information
+  TCP    [::]:49666             [::]:0                 LISTENING       2172
+  Schedule
+ [svchost.exe]
+  TCP    [::]:49667             [::]:0                 LISTENING       2944
+ [spoolsv.exe]
+  TCP    [::]:49668             [::]:0                 LISTENING       1912
+  EventLog
+ [svchost.exe]
+  TCP    [::]:49675             [::]:0                 LISTENING       860
+ Can not obtain ownership information
+  TCP    [::]:49676             [::]:0                 LISTENING       4576
+  SessionEnv
+ [svchost.exe]
+  TCP    [::]:58103             [::]:0                 LISTENING       5012
+  PolicyAgent
+ [svchost.exe]
+  UDP    0.0.0.0:123            *:*                                    3404
+  W32Time
+ [svchost.exe]
+  UDP    0.0.0.0:500            *:*                                    3724
+  IKEEXT
+ [svchost.exe]
+  UDP    0.0.0.0:3389           *:*                                    4940
+  TermService
+ [svchost.exe]
+  UDP    0.0.0.0:4500           *:*                                    3724
+  IKEEXT
+ [svchost.exe]
+  UDP    0.0.0.0:5050           *:*                                    6044
+  CDPSvc
+ [svchost.exe]
+  UDP    0.0.0.0:5353           *:*                                    2516
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:5355           *:*                                    2516
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:56446          *:*                                    2516
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:57969          127.0.0.1:57968                        5892
+ [SenseNdr.exe]
+  UDP    0.0.0.0:63585          *:*                                    2516
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:63589          127.0.0.1:63588                        5892
+ [SenseNdr.exe]
+  UDP    0.0.0.0:63591          127.0.0.1:63590                        5892
+ [SenseNdr.exe]
+  UDP    0.0.0.0:63593          127.0.0.1:63592                        5892
+ [SenseNdr.exe]
+  UDP    0.0.0.0:63595          127.0.0.1:63594                        5892
+ [SenseNdr.exe]
+  UDP    0.0.0.0:63597          127.0.0.1:63596                        5892
+ [SenseNdr.exe]
+  UDP    0.0.0.0:63599          127.0.0.1:63598                        5892
+ [SenseNdr.exe]
+  UDP    0.0.0.0:63605          127.0.0.1:63604                        5892
+ [SenseNdr.exe]
+  UDP    0.0.0.0:63607          127.0.0.1:63606                        5892
+ [SenseNdr.exe]
+  UDP    0.0.0.0:63609          127.0.0.1:63608                        5892
+ [SenseNdr.exe]
+  UDP    0.0.0.0:63611          127.0.0.1:63610                        5892
+ [SenseNdr.exe]
+  UDP    10.2.0.23:137          *:*                                    4
+ Can not obtain ownership information
+  UDP    10.2.0.23:138          *:*                                    4
+ Can not obtain ownership information
+  UDP    10.2.0.23:1900         *:*                                    6744
+  SSDPSRV
+ [svchost.exe]
+  UDP    10.2.0.23:63602        *:*                                    6744
+  SSDPSRV
+ [svchost.exe]
+  UDP    127.0.0.1:1900         *:*                                    6744
+  SSDPSRV
+ [svchost.exe]
+  UDP    127.0.0.1:57968        *:*                                    5892
+ [SenseNdr.exe]
+  UDP    127.0.0.1:63588        *:*                                    5892
+ [SenseNdr.exe]
+  UDP    127.0.0.1:63590        *:*                                    5892
+ [SenseNdr.exe]
+  UDP    127.0.0.1:63592        *:*                                    5892
+ [SenseNdr.exe]
+  UDP    127.0.0.1:63594        *:*                                    5892
+ [SenseNdr.exe]
+  UDP    127.0.0.1:63596        *:*                                    5892
+ [SenseNdr.exe]
+  UDP    127.0.0.1:63598        *:*                                    5892
+ [SenseNdr.exe]
+  UDP    127.0.0.1:63603        *:*                                    6744
+  SSDPSRV
+ [svchost.exe]
+  UDP    127.0.0.1:63604        *:*                                    5892
+ [SenseNdr.exe]
+  UDP    127.0.0.1:63606        *:*                                    5892
+ [SenseNdr.exe]
+  UDP    127.0.0.1:63608        *:*                                    5892
+ [SenseNdr.exe]
+  UDP    127.0.0.1:63610        *:*                                    5892
+ [SenseNdr.exe]
+  UDP    127.0.0.1:64194        127.0.0.1:64194                        3232
+  iphlpsvc
+ [svchost.exe]
+  UDP    [::]:123               *:*                                    3404
+  W32Time
+ [svchost.exe]
+  UDP    [::]:500               *:*                                    3724
+  IKEEXT
+ [svchost.exe]
+  UDP    [::]:3389              *:*                                    4940
+  TermService
+ [svchost.exe]
+  UDP    [::]:4500              *:*                                    3724
+  IKEEXT
+ [svchost.exe]
+  UDP    [::]:5353              *:*                                    2516
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:5355              *:*                                    2516
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:56446             *:*                                    2516
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:63585             *:*                                    2516
+  Dnscache
+ [svchost.exe]
+  UDP    [::1]:1900             *:*                                    6744
+  SSDPSRV
+ [svchost.exe]
+  UDP    [::1]:63601            *:*                                    6744
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::a657:4f5b:70e2:2368%5]:1900  *:*                                    6744
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::a657:4f5b:70e2:2368%5]:63600  *:*                                    6744
+  SSDPSRV
+ [svchost.exe]
