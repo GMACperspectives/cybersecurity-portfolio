@@ -27,6 +27,7 @@ I'm an IT professional transitioning into cybersecurity, CompTIA Security+ certi
 
 - **[Phishing Email Analysis](___________)**
 - **[Home Lab SIEM — Splunk](___________)**
+- - **[MySQL Ransom & RDP Brute-Force Investigation (Honeypot Lab)](projects/honeypot-lab-intrusion-investigation)**
 
 <hr/>
 
