@@ -21,7 +21,7 @@ I'm an IT professional transitioning into cybersecurity, CompTIA Security+ certi
 
 <h2 align="center">⚠️ Vulnerability Management Projects</h2>
 
-- **[Vulnerability Assessment with Tenable (Authenticated vs. Unauthenticated Scanning)](projects/vulnerability-assessment-tenable)**
+- **[Vulnerability Assessment with Tenable (Authenticated vs. Unauthenticated Scanning)(Windows 11)](projects/vulnerability-assessment-tenable)**
 
 <h2 align="center">🚨 Threat Hunting and Security Operations</h2>
 
